@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-09T17:16:04.362Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="TMpEAVBKOgyyq80adN5C" version="14.3.0" type="github">
+<mxfile modified="2021-02-09T17:16:41.310Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="yyRaMPyyFtEzOmQZAYQN" version="14.3.0" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="2115" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -209,9 +209,6 @@
         </mxCell>
         <mxCell id="qojFPFEIn5ypN-THC_9b-104" value="Domain Name System Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="348.25" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qojFPFEIn5ypN-THC_9b-105" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="110" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qojFPFEIn5ypN-THC_9b-106" value="Happistar Web Server&lt;br&gt;122.122.122.122" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="975" y="515" width="130" height="30" as="geometry" />
